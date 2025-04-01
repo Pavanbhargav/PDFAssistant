@@ -1,0 +1,9 @@
+streamlit
+torch
+langchain
+langchain-community
+pypdf
+python-dotenv
+sentence-transformers
+transformers
+accelerate
